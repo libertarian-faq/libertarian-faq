@@ -1,0 +1,386 @@
+= Libertarianism FAQ
+:docinfo:
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 4
+:sectnums:
+:toc: macro
+:toclevels: 4
+:toc-title:
+:imagesdir: assets
+:figure-caption: Fig
+
+by https://github.com/sidstuff[sidstuff] and https://github.com/sidstuff/libertarianism/graphs/contributors[contributors], `CC BY 4.0`^<<license,Why?>>^
+
+[cols="a"]
+|===
+.The Gadsden flag, originally from the American revolution, is now more commonly used as a symbol for libertarianism.
+image::flag.png[]
+|===
+
+Many defenses of libertarianism rely too much on notions of freedom and appeal only to those already libertarians. This FAQ aims to provide an introduction to and watertight defense of libertarianism acceptable to nearly everybody.
+
+It is meant to be read from beginning to end for its arguments to be convincing. Answer people's questions by pasting excerpts from it, then strongly recomend reading it in full. The past should not hold back the future; section numbers, names, and contents may be changed.
+
+Contribute by opening issues and pull requests at https://github.com/libertarian-faq/libertarian-faq[github.com/libertarian-faq/libertarian-faq].
+
+Looking for studies, literature, quotes, and statistics to cite, well-informed libertarians, please contribute.
+
+Memes are welcome as well, but only if it conveys without insults or hyperbole, an airtight argument. Humor should not come at the cost of the message and its accuracy.
+
+toc::[]
+
+[[libertarianism]]
+== What is libertarianism?
+
+Libertarianism simply refers to the notion of a minimal state. However, the term, especially in the US, generally refers to right-libertarianism, which also advocates for strong private property rights and a free market, and is also the meaning with which this FAQ uses it.
+
+An important concept to libertarians is the non-agression principle (NAP), which forbids the non-consensual breach of contract (i.e., fraud), or of property (which includes the body). Aggression is, however, permitted to the extent necessary to defend against the above.
+
+Right-libertarianism has several variants based on how minimal the state is:
+
+* anarcho-captalism image:ancap.webp[], or ancap, which seeks to abolish the state, with private enforcement of the NAP
+* minarchy image:minarchist.webp[], or a night-watchman state, whose only role is to enforce the NAP
+* classical liberalism image:classical-lib.webp[], the older and more moderate version of libertarianism, which still wants a minimal state, but not to the above extent
+
+This FAQ aims to defend a minarchist model. All uses of 'libertarian(ism)' henceforth will refer to the same.
+
+[[minimal-state]]
+=== Why a minimal state?
+
+The state takes a portion of your money and decides for you how it should be spent, imposes innumerable restrictions on you, and destroys your life if you disobey. On top of that, not only is the public sector less efficient than the private sector due to the lack of competition, private entities are burdened by unnecessary regulations. The justification given for this is that it improves the average well-being in several ways. But what if all the human effort spent on government is actually harmful? What if we're better off using it elsewhere if we want a more fair and prosperous society? That is what this FAQ aims to convice you of.
+
+[[elections]]
+==== But governments compete too!
+
+Yes, every four or five years, a single government is elected that does every single one of the thousands of government functions. Voters don't perform a careful analysis of how efficiently these thousands of fuctions were performed compared to the previous ruling party. Since these governments also have the power to make various laws with sweeping societal effects, here's what actually happens:
+
+[cols="a"]
+|===
+."Think of how stupid the average person is, and realize half of them are stupider than that." – George Carlin, who didn't use the word 'median' to avoid confusing the average person.
+image::democracy.jpg[]
+|===
+
+Thus the incentive for the branch performing each function to do so efficiently is extremely small. A highly specialized and efficient agent is hindered by having to join, obey, and share in the outcomes of, this inefficient behemoth. In a libertarian system, the sole function and power of the government would be the enforcement of the NAP. This is best done at the local level. Any subjective laws passed will be based on local opinion, eg., laws protecting those incapable of consenting (children, the mentally disabled, etc.), laws against endangering others' safety, etc. The best performing government in each region can be elected, as opposed to the best one averaged across all regions. This is why libertarians want powers transferred from the federal to the local government.
+
+[[democracy]]
+==== How would a minarchy be established? Would it be democratic?
+
+A government not supported by the majority cannot sustain itself without tyranny. They will eventually get rid of the current government and laws, even amend the constitution, if needed, to get their way. Thus it is impossible to maintain libertarianism by restricting voters or their power.
+
+To achieve a libertarian country, either the majority of people in an existing country must be convinced of its merits, or libertarians must come together to form a new nation. And if the majority is libertarian, they will vote as such, maintaining the minarchy.
+
+[[always-less-gov]]
+==== Will a libertarian always vote for less government action?
+
+The current system is dominated by government action, so fixing problems often requires even more government action. This does not say anything as to the feasibility of a fully libertarian system. Private entities take time to develop and immediately dismantling entire government institutions may not be the best move, hence why companies benefitting from government aid and intellectual property also need antitrust legislation, and why suddenly cutting subsidies/welfare can hurt a lot of people.
+
+[[why-government]]
+==== Why a government at all?
+
+Anarcho-capitalists advocate for private (self/community/corporate) enforcement of the NAP, thus eliminating the government entirely. Doubts as to whether this will leave more people unprotected than a government solution keep people from supporting it, but this minarchist FAQ can be extended into an ancap one if/when sufficiently convincing arguments are collected.
+
+[[free-market]]
+=== Why a free market?
+
+In a free market, the one who provides a good/service for the lowest price gets nearly all the customers. The one offering the highest for the same job gets nearly all the employees. No one wants to let another do this and dominate the industry, so they all compete against each other for customers and employees. Employees can also form unions to demand payment almost equal to the value they bring.
+
+[[unions]]
+==== What if companies fire employees that try to unionize?
+
+If you're literally penniless and need immediate funds, see the section on <<welfare,welfare>>. Only join companies that allow employees to unionize. Or find funding and form a cooperative. If enough people join the union that there aren't enough ununionized empoyees left, the employers will have no choice. If that is not the case, either the conditions must not be so bad, or there are more people than needed in the industry, which means some people need to leave and libertarianism is just preventing wasted human effort.
+
+[[profit]]
+==== Then how do people make a profit?
+
+There are several ways to make a profit, life would be pretty boring otherwise. Examples include:
+
+* brand prestige, goodwill, loyalty
+* the network effect
+* walled gardens
+* switching costs
+
+But none of these factors are so powerful that a company in a free market can extract exorbitant profits from a customer unwillingly paying with no better choice. Note that <<intellectual-property,intellectual property>> would not exist in a libertarian system. Of course, people sometimes buy products/services without doing their due diligence or simply not caring enough about ease of quitting, ease of repair, control, etc., and later face difficulties, but that is simply the consequence of their own decisions.
+
+[[billionaires]]
+===== Will billionaires exist in a libertarian system?
+
+A customer that can afford it may willingly overpay for a product due to brand affinity/prestige. Even otherwise, there are 8 billion people on the planet. Getting $10 profit from 100 million people means a billion dollars in profit. None of the 100 million people need to have been poor or exploited; small profits per person can result in a billionaire simply due to the large human population. This is not to say that all current billionaires obtained all their wealth through such innocent means – many have used violence or state assistance – just that it is possible.
+
+[[market-failiure]]
+==== Aren't there situations where the free market doesn't work out so nicely for everyone?
+
+Libertarianism is not an all-or-nothing philosophy. Different libertarians advocate for different levels of government intervention. An emergency situation, eg., a major war, disaster, irreplaceable resource exhaustion, etc. will almost certainly require a lot of government action. This FAQ aims to show that barring such extremely rare situations that can be handled then using exceptional measures, libertarianism works, and therefore they are no reason to forego libertarianism altogether.
+
+To show this, we go through situations where it seems like the free market would be unfair, and explain why they won't be an issue.
+
+[[scarcity]]
+===== What if a resource is limited globally?
+
+If the resource is replaceable, like fossil fuels, the free market will invest appropriately in alternatives as and when needed. As for irreplaceable resources, it would be a very rare situation for there to only exist a few sources of it globally, controlled by a few entities, and for them to all stop competing and fix prices. This would be a global crisis requiring international action and co-operation for diplomacy, sanctions, and acquiring new sources/technologies. Clearly not a usual scenario that can be used to dismiss libertarianism.
+
+[[water]]
+===== What if a resource is limited within a region? For example, water?
+
+Today, shipping costs are so low (eg., $0.50 per kg for US-China shipments) that for most goods, the market is global.
+
+But what if the main water supply in a region is owned by a single entity, and they charge exorbitant prices? Unlike food, bringing in water from faraway regions would be too expensive. Of course, people moving out would result in the entity going out of business and selling the water supply to someone more rational, but due to various reasons, moving out isn't always easy.
+
+Here's the true solution. Currently, the water supply in most countries is owned by the government. Upon transition to libertarianism, the water supply in each region would simply be an entity with ownership distributed among the residents. If some of them sell their shares of the water supply to a company that then jacks up the prices, they'll have to move out, but that is simply them facing the consequences of risking putting their water supply in another's hands.
+
+What if the water supply was sold by the government to a private entity currently subject to regulations? Would a libertarian transition remove those regulations? Note that this situation is caused by having to transition from big government to libertarianism. If a libertarian society arose naturally, rights to natural resources would be distributed among the community via the principle of homesteading. And as before, anyone selling their rights must be moving or have another source ready, othewise accept the potential consequences.
+
+To fix the issues caused by a non-libertarian government, non-libertarian measured may be needed. The government had no right to the water, nor to sell it to the private entity. It may need to be taken back.
+
+[[necessities]]
+===== What if an essential resource is limited in time? For example, food or medical supplies?
+
+If someone buys up a lot of the food and medicine and tries to resell it at a high price, people will have to buy it, since unlike for non-essentials, they can't just wait for the market to make more, they need it immediately. But this can be solved easily by the community signing an agreement with the supplier before production.
+
+[[price-fixing]]
+===== What about price-fixing?
+
+Price fixing would require every single company selling something to cooperate. And if they do, another person sick of them can start a new company and undercut them. Price fixing would also destroy any goodwill towards these companies and many customers wouldn't patronize them even if they lowered their prices again.
+
+[[entry-barriers]]
+===== What about barriers to entry?
+
+When a company begins selling a product, the price starts off higher to recoup the cost of development, advertising, equipment, land, etc. Some costs don't increase proportionately to the number of units sold, so the cost of making each unit goes down as more are made. Thus a new company entering the market will have to charge higher prices. Does this mean that the existing companies will be able to get away with charging high prices forever because the barrier to entry is even higher?
+
+Let's say that a company needs to charge a total of $100M more than their final prices to recoup initial costs. But by using investor funds to pay said costs, the new company can collect this $100M over, say 10 or more years, instead of 2 or 5, making the additional cost of each unit from the final price very small. Thus they can beat the overcharging company. Big investors are surprisingly ready buy billions worth of stock of companies that have been losing billions every year, if they believe it's a necessary sacrifice that will more than make up for it in the future.
+
+[[automation]]
+===== What about when robots and AI and result in mass-automation without creating enough new jobs?
+
+Human desires are limitless. We can never have too much of something, so people would move into the remaining jobs and produce more of that. Workers would be paid less, but due to automation, everything would also be cheaper. This would work until the very last jobs are replaced. In a utopia where there is no need for labor, art, or science anymore, a market economy is no longer needed, but I doubt that day will come anytime soon.
+
+[[market-manipulation]]
+==== What about market manipulation?
+
+If you believe unverified information, you will lose money.
+
+[[insider-trading]]
+==== What about insider trading?
+
+Insider trading can discourage investment, and cause CEOs to hide information from employees. While there have been arguments that insider trading makes share prices more quickly go to their proper value, the true solution is that if investors dislike insider trading, companies can legally declare that they will only work with those that legally agree not to trade its shares or facilitate insider trading. If someone unaffiliated with the company simply overhears or comes across insider information, this won't stop them, but even if it were illegal, it would be nearly impossible to prove such a case.
+
+[[minimum-wage]]
+==== Why not a minimum wage?
+
+[cols="a"]
+|===
+.Why would you assume wages are fixed? They'd obviously rise if some of the workers left – law of supply and demand. Use the internet to gain basic economic literacy before tweeting about capitalism.
+image::bruh.png[]
+|===
+
+If the wages for a profession seem too low, it's because there are too many workers in the industry – the free market is just disincentivizing wasted human effort. Leave the job – if you have no other skills, invest in <<education,education>>. If enough people do, wages should rise. Of course, wages won't go beyond the profit each worker can generate, but that shouldn't be the limiting factor for the vast majority of jobs. If it is, and not enough people are willing to work for those wages, the companies will have to come up with some way of improving worker productivity.
+
+[[private-property]]
+=== Why strong private property rights?
+
+Libertarian morality is as follows: According to the principle of homesteading, each man owns his own person, and he therefore owns the things which he produces – those parts of nature hitherto unowned and which, when mixed with his labor, are transformed into productive entities. The only moral ways for these entities to change ownership are voluntary trade and gift-giving.
+
+Those who are productive with their property become responsible for more and more, since they can afford to buy up additional property with their earnings. The overall productivity therefore, will rise.
+
+[cols="a"]
+|===
+.If only consent was respected in more than sex. Marx's response was that it's not really consensual since the worker is bound to unwanted labour as a means of survival. The libertarian morality of "you still can't force someone to pay you more than your labor is worth" isn't satisfactory to non-libertarians, so see the section on <<welfare,welfare>> for a discussion of the provision of basic necessities in libertarianism, as well as the one on <<minimum-wage,minimum wage>>. Either way, there are currently thousands of economic restrictions that are nowhere near essential for survival.
+image::consent.jpg[]
+|===
+
+[[rich]]
+==== Why not eat the rich?
+
+Yes, most of the very rich have acquired their wealth through unfair means, be it through unfair government action like intellectual property, subsidies, bailouts, low-interest loans, etc., or violence, historic or current. Regarding pure socialism/communism, a war to fully redistribute the riches of the wealthy will likely never happen, and cause great devastation if it did.
+
+In a libertarian system, even if everyone started out equally wealthy, some would end up richer than others, as people of differening competency and diligence should. But libertarianism makes things fair even if some are very wealthy.
+
+One who owns a lot of resources can rent or loan it to others without much additional cost to themselves, and make a percentage return. But by making them compete with other rich people, <<scarcity,assuming>> resources are plenty, the ones that offers it for the lowest price, ie., makes the closest to zero profit, will get all the customers.
+
+As for why even partial wealth redistribution isn't preferred in a libertarian society, note that the company that provides the customer with the most value for their money wins. The riches of a wealthy person are assets to be used to finance their business, even if turned into houses or jewelery, since they can be liquidated when needed. Taking these away punishes the best company, which is counter-productive. If a lot of it is turned into stuff like parties and luxury vacations, the company isn't being very efficient, and will likely be replaced quickly in a free market. If not, that means people who can afford it are willingly transferring their money by overpaying due to their affinity for the entity, in which case libertarians would argue they have every right to spend that fairly earned money.
+
+[[inheritance]]
+==== What about taxing inheritance?
+
+Besides the libertarian argument that one has the right to transfer their property to anyone they want, including their family, note that children have been raised and molded by the parent from birth, knowing that they will inherit the family business. As weird as it might seem, simply consider them a continuation of the dead parent; they will now continue administering the business. Then the same arguments as above for respecting private property apply.
+
+[[insolvency]]
+=== What if someone owes more than they can ever repay, be it debt or damages?
+
+This is an unsolvable problem because there's no way to extract large amounts of value from a person without cruelty, and even with cruelty, there's a limit to how much you can extract.
+
+[[welfare]]
+== What about welfare?
+
+The libertarian opposition to government-funded welfare is based on of course, ideals of voluntaryism, but also on the efficiency of private entities. Simply giving the poor money is not the best way to end poverty. With private charities, the ones that can actually cause change in a neighbourhood will get donations, and inefficient ones won't. This will likely involve putting conditions on the money given, eg., that the able-bodied and able-minded must participate in education/employment. There's also the task of making such initiatives as efficient as possible.
+
+If a pseudo-libertarian government were to forcibly collect money for welfare, it would be best to decouple the voting for the NAP-enforcing and welfare-providing branches, but there would still be a big problem.
+
+If contributing to welfare was compulsory and the welfare provider was voted upon democratically, the votes of wealthy charity givers that want to see change would be drowned out by the votes of the poor that would prefer to receive money with no strings attached, and the votes of the upper and middle classes that want their contributions reduced. And if the voting isn't democratic, the system will be overthrown by the people. But reducing compulsary welfare via the votes of the upper and middle class is currently possible if all of them could be convinced that it is misplaced kindness.
+
+The main concern people have regarding abolishing welfare is whether enough money will be donated to cover all poor people. The rich who can afford to donate large amounts already do, be it out of kindness or to acquire goodwill, and people would certainly donate a lot more if they didn't already have to pay half their money in income, property, value-added, excise, and numerous other taxes, for the "betterment of society". Libertarians believe that this, combined with the fact that the best performing charities will be the ones donated to, mean that poverty will be alleviated with less money needing to be spent.
+
+We can't definitively prove this yet, so why not first test things out by slowly reducing the scope of government welfare? It must not all be cut suddenly, since time will be needed for the culture surrounding welfare to shift as people pay less in taxes, and for private charities to strengthen and become effective.
+
+[[education]]
+=== What about subsidising education?
+
+Everything we do is an investment, with the potential for profit and the risk of loss. The same applies to education. You invest money from loans or personal funds to undergo training. You take on the risk of flunking or the skill you learnt lessening in demand. The true value of any investment is the value people give to in a free market. There is no reason to forcibly transfer money via taxation and give extra favors to one type of investment, subsidising it by taxing (artificially and additionally disadvantaging) others.
+
+[[intellectual-property]]
+== What is the libertarian stance on intellectual property?
+
+[cols="a"]
+|===
+.An uncommon alliance
+image::based.png[]
+|===
+
+Banning data/information and its use, literal 0s and 1s, is not just a violation of the free market, but of liberty itself. It is nothing short of tyranny. Keep in mind that by the law of supply and demand, data once created has no monetary value, since it can be duplicated infinitely. Any such value is thus something artificially maintained by the state using force to restrict its duplication. It lets companies charge whatever price they want for data and products built using said data, without competition for decades, which is terrible.
+
+The justification given for such an infringement upon our freedoms is that it promotes creativity and innovation. We will discuss how in today's world, the idea that art and science would be significantly hindered without IP protections is untrue. The aforementioned monopoly caused by IP is a much worse effect than any benefits it may possibly have.
+
+[[recoup-rnd]]
+=== How will companies recoup the cost of creativity and innovation?
+
+We have to distinguish between two types of creations. We'll discuss how the cost of coming up with both can be recouped without intellectual property and its awfulness.
+
+[[copycats]]
+==== What about creations that can be easily reproduced once they enter the market?
+
+By the Kickstarter model – if a high enough number of people agree to pay your desired price, you take all their money and give them all the product. Otherwise no one's money is taken and the product is never released. This latter condition is needed so people don't just wait for cheaper copycats.
+
+The latter situation isn't a novel scenario, the company miscalculated the demand, spent resources developing a failed product, and will have to eat the losses, something that will always hapoen.
+
+[[trade-secrets]]
+==== What about creations that cannot be copied as above, eg., a process for making something, which can be kept a secret?
+
+Let's say company X spends $14M to discover a much better production method, and starts using it to sell cheaper/better goods in the market. Big company Y decides to spend tens of millions to discover it themselves, and at great speed, hiring many scientists, and conducting lots of trials simultaneously. It looks like it'll take Y only 60 weeks to make the discovery, and 20 weeks to bring it to production.
+
+Within that time, X realizes they won't be able to make $14M profit. So they decide to sell the discovery to Y for $12–14M on the condition that Y waits 40 weeks before launching the product. Y agrees, because they save time and money. During those 40 weeks, X makes $6M profit, bringing their total to $18–20M. The $4–6M is a more than excellent return for the time X spent discovering it.
+
+Now that both X and Y have the discovery, they can either compete against each other, in which case all is good, or they can act as one and fix prices. In the latter case, big company Z decides to spend 10s of millions to discover it themselves and beat XY's pricing, in which case the story repeats.
+
+The use of exact numbers makes it seem like this example is attempting to fool you somehow, but the only essential part is another company having the capability to rediscover the method. They won't even have to try, Y can just offer to buy it, with the implication that they will go all out trying to rediscover it unless X agrees to sell.
+
+Thus no human effort is actually wasted discovering the same thing multiple times. Now things might not work out this way all the time, but in a free market, it will most of the time, and that's enough. Remember, the alternative we're trying to prevent is one company being able to charge whatever price they want for a potentially must-have discovery, for decades.
+
+[[roads]]
+== What about roads?
+
+While corporate-owned roads are certainly possible, they would require continuous tracking of vehicles to charge them, and the tracking infrastructure would be a privacy nightmare and great additional cost. For the true solution, consider that all the currently needed roads have already been built by the government; the only required cost is to maintain them, and very rarely, build new ones. Upon transitioning to libertarianism, government roads will be transferred to the people, and maintenance costs will be paid for willingly by those whose lands are accessed via those roads.
+
+Since a government already went ahead and used our taxes to build roads, we'll have to decide upon transition exactly how shares of the entities controlling different roads should be distributed among the people, and locals will have to plan collective payment for maintaining the roads. But it is doubtless that people will not let the roads leading to their land fall into disrepair, as it would discourage visitors to their businesses and homes.
+
+[[confinement]]
+=== What if the ones who own land (maybe even the airspace) surrounding you don't let you leave or enter via roads?
+
+That would be confinement. You can't just build a wall around someone and say, "Hey, I haven't harmed you or your property." You are still violating their property rights, more specifically, their right to access property.
+
+[[road-safety]]
+=== What about speed limits, drunk driving, licenses, etc.?
+
+The owners of roads are incentivized to set reasonable rules so that people want to use their roads.
+
+[[public-utilities]]
+== What about other government owned property and infrastructure?
+
+Some sewage systems, power generation, forests, beaches, etc., may currently be government owned. They can also be redistributed similar to <<roads,roads>> and the <<water,water supply>>. Any profits gained by these will be distributed proportional to the shares owned.
+
+[[nature]]
+== What about nature?
+
+[[animals]]
+=== What about protecting animals?
+
+This is really a question of how much of the rights of a human do we give animals? Giving them no rights doesn't make sense from an ethical perspective as they have sentience and the capacity to feel pain. And yet we don't grant them the right not to be confined or killed, not just because it would make meat-eating humans unhappy, but also because rights are a human concept, and animals in nature are so horribly brutal that it seems incongruous to try and make humans not confine or kill them.
+
+[[wildlife]]
+=== What about wildlife conservation?
+
+If simply concerned about wild species going extinct, and not their their occasional mistreatment (which is discussed <<animals,above>>), species will be conserved by the free market to the extent that there is interest in them and the ecosystems that they support, eg., in zoos, wildlife tourism, forest products, etc.
+
+[[pollution]]
+=== What about pollution?
+
+If your pollution damages the property of others, that would violate the NAP, and a minarchy would be justified in collecting penalties for the same and distributing them to the people affected. This should incentivize the company to try and prevent or clean up its pollution as much as possible. We need to decide the extent of such penalties, and whether penalties other than monetary ones would be even more effective at preventing pollution.
+
+[[abortion]]
+== What about abortion?
+
+First let's discuss the argument against abortion. Most people would save the life of an infant over that of an animal, even if the animal is more intelligent. The only unbiased reason to do this is that given nutrients, the baby will develop into a more intelligent lifeform in the future. Thus wanting to save a "clump of cells" isn't as irrational as it may seem.
+
+But our hypothetical above assumes that both the baby and the animal want to live. By not killing themselves, all conscious creatures have implicitly expressed their desire to continue living, and most people agree that that is to be respected, at least for humans. Which is why killing a person painlessly while they're unconscious is still considered wrong. But this desire does not apply to fetuses before the third trimester, which have never been conscious. This is the moral argument for abortion. There is also the obvious utilitarian argument for it.
+
+[[bodily-autonomy]]
+=== What about the bodily autonomy argument for abortion?
+
+A third trimester baby can survive outside the womb with medical help nowadays, so aborting it could be considered wrong for that reason, but assume a time period or situation where this isn't the case. The bodily autonomy argument would mean that a (hypothetical) 9th month abortion is okay in the above situation.
+
+This involves killing an intelligent human, and as mentioned <<abortion,before>>, almost no one would morally agree with this, except in situations where the mother’s life is at risk. And an argument which leads to a disagreeable conclusion, is itself disagreeable. So this argument for abortion isn't very good, but that doesn't mean other arguments for it aren't.
+
+[[protection]]
+== What about safety?
+
+[[guns]]
+=== What about guns?
+
+That the person you're about to attack may have a gun on them will deter the majority of attackers. If nobody had guns, only melee weapons, it would be easy for a group to attack someone, say with baseball bats, etc., suffer little to no injury themselves, and get away. If everyone has a gun, you can ambush someone on the street, but will likely get killed by bystander. If you target someone in a location where they see/hear you coming, like their home or workplace, the attackers will suffer more harm than the "victim". This is more effective deterrent and solution to attacks than the police, who can almost always arrive only after the crime is over.
+
+In countries with gun rights, like the US, the chance of someone not involved in crime being killed in a shooting is very low, and the number of victims in suicidal mass shootings can be minimized if even more bystanders have guns. It is unfortunate that it is impossible to quantify the number of attacks/muggings that never happened because the possibility of people being armed stopped them. This number is almost certainly huge.
+
+Moreover, one otherwise cannot guarantee that the government will never ever turn tyrannical. An armed populace almost certainly can.
+
+[[safety]]
+=== What about safety regulations for food, drugs, buildings, equipment, etc.?
+
+When you enter a building, buy a product, or avail a service, you have a reasonable assumption of safety and efficacy. If this is not true, not providing a clear warning is fraud. Private organizations that verify the same will naturally pop up. Obviously, them making false assurances would be fraud as well.
+
+[[theatre-fire]]
+=== What about yelling fire in a theatre?
+
+Firstly, it's actually legal in the US to yell fire in a theatre, and their theatres seem fine. Anyway, theatres just legally requiring customers not to make disruptions would have the exact same effect as the government banning it.
+
+[[discrimination]]
+== What about discrimination by private entities?
+
+It is important to note that nowhere is discrimination against every category prohibited. Nearly all businesses would turn down certain types of customers. Only discrimination against certain protected characteristics, usually (but not always) immutable ones, irrelevant to the business, is prohibited.
+
+In a democracy, the passing of a law prohibiting discrimination against a certain group requires the majority to be against said discrimination. This means that this group won't be discriminated against by most people anyway. Those that do will suffer losses from missed customers. People strongly opposed to the discrimination may even counter-discriminate, boycotting those that do.
+
+In such a situation, it doesn't seem all that necessary to legally prohibit discrimination, especially to libertarians, who believe that no one can be forced to serve another for whatever reason, even "social justice".
+
+[[defamation]]
+== What about defamation?
+
+Defamation is not fraud because no one has a legal agreement with the public by default to provide true facts only. If defamation was legal, there would be so many false accusations and fake evidence of the same, that most people would actually learn to think critically and not believe something until it has truly been verified. If a majority of people gain this skill, their critical thinking would be the predominant opinion, and anybody blindly believing things would have to be willfully blind.
+
+[[voyeurism]]
+== What about voyeurism?
+
+For a stable society, people need assurance that they will not be spied on, so we must slightly extend the concept of private property to include personal space. Otherwise, someone repeatedly coming within a centimeter of you and using the "I'm not touching you" kindergarten taunt would be totally allowed. The extent of this personal space is context dependent, and could be the toilet, changing room, bedroom, underneath a skirt, etc. If someone's personal space is in overlap with your private property, you cannot immediately violate said space, but can ask them to leave, and take measures to remove them only if they don't comply within a reasonable timeframe.
+
+[[public-obscenity]]
+== What about public "obscenity" (exhibitionism, littering, catcalling, etc.)?
+
+[cols="a"]
+|===
+.Ancient problems require modern solutions.
+image::bigbrain.png[]
+|===
+
+All claimed land will be privately owned; patronize places (neighbourhoods, restaurants, streets, beaches, parks, etc.) which implement the rules that you want. Such places also have an incentive to enforce said rules to not just attract but keep their target customers.
+
+[[meta]]
+== Meta
+
+[[license]]
+=== Why is this FAQ licensed under the Creative Commons Attribution 4.0 (CC BY 4.0)?
+
+At first glance, it would seem pretty ironic for an FAQ that lambasts intellectual property rights to place restrictions on its own distribution, even if just attribution. But asking for attribution is consistent with libertarianism.
+
+It is to prevent people passing this FAQ off as their own work, as they could get social/monetary benefits from doing so, and that should be considered fraud. Even if they don't explicitly claim to be the author when using its contents, that is likely to be assumed by most readers, so not explicitly disclaiming it should be treated as fraud.
+
+This does not mean that anyone who doesn't provide attribution must be sued into oblivion; the punishment must be proportional to the crime, after all, and in most cases, any personal clout gained from omitting attribution will be negligible. But for the very few cases where it's not, the license facilitates the prosecution of such fraud in the current legal system.
