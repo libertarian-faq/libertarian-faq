@@ -12,7 +12,7 @@
 :imagesdir: assets
 :figure-caption: Fig
 
-by https://github.com/sidstuff[sidstuff] and https://github.com/sidstuff/libertarianism/graphs/contributors[contributors], `CC BY 4.0`^<<license,Why?>>^
+by https://github.com/sidstuff[sidstuff] and https://github.com/libertarian-faq/libertarian-faq/graphs/contributors[contributors], `CC BY 4.0`^<<license,Why?>>^
 
 [cols="a"]
 |===
